@@ -13,7 +13,7 @@ if __name__ == '__main__':
     batch_size = 8
     load_ver = 0
     device = "cuda:0"
-    corpus_path = "/media/andras/adat3/lm_texts.txt"
+    corpus_path = "TODO"
 
     model = GPT2Model()
     model = model.to(device)
