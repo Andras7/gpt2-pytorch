@@ -1,4 +1,4 @@
-# # GPT2 Pytorch
+# GPT2 Pytorch
 
 Extremely simple and understandable GPT2 implementation with minor tweaks.
 
@@ -9,7 +9,7 @@ Extremely simple and understandable GPT2 implementation with minor tweaks.
 * Easy to understand, solid code
 * Easy to extend for new experiments
 
-## Supported features
+## Supported extra features
 * Lamb optimizer
 * Mixed precision training, the important layers still remained in fp32.
 * sin, cos positional encoding
